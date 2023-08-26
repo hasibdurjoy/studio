@@ -4,7 +4,7 @@ import WhoWeAre from "./WhoWeAre";
 import WhatWeDo from "./WhatWeDo";
 import ContactUs from "./ContactUs";
 
-const HomepageOverview = () => {
+const StudioProject = () => {
   return (
     <div>
       <Banner />
@@ -15,4 +15,4 @@ const HomepageOverview = () => {
   );
 };
 
-export default HomepageOverview;
+export default StudioProject;

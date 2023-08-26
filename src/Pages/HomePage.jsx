@@ -1,10 +1,10 @@
 import React from "react";
-import HomepageOverview from "../Components/HomePageComponents/HomepageOverview";
+import StudioProject from "../Components/StudioProjectHomePage/StudioProject";
 
 const HomePage = () => {
   return (
     <div>
-      <HomepageOverview />
+      <StudioProject />
     </div>
   );
 };
