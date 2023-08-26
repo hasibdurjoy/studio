@@ -4,7 +4,7 @@ import WhoWeAre from "./WhoWeAre";
 import WhatWeDo from "./WhatWeDo";
 import ContactUs from "./ContactUs";
 
-const StudioProject = () => {
+const StudioProjectHome = () => {
   return (
     <div>
       <Banner />
@@ -15,4 +15,4 @@ const StudioProject = () => {
   );
 };
 
-export default StudioProject;
+export default StudioProjectHome;
