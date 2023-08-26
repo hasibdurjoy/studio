@@ -45,11 +45,6 @@ const WhatWeDo = () => {
           We have everything you need to launch and grow a successful digital
           business.
         </h1>
-        <p style={{ fontSize: "24px", padding: "15px 0px" }}>
-          Whether you are a small company or an established one we create clean
-          and intuitive applications for Web,Desktop,iOS & Android Platforms
-          with the same principles.
-        </p>
         <Row>
           {fakeData.map((s) => (
             <Col sm={12} md={6}>
