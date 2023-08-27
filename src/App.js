@@ -1,12 +1,9 @@
 import "./App.css";
-import HookProject from "./Projects/HookProject";
-import StudioProject from "./Projects/StudioProject";
 
 function App() {
   return (
     <div>
-      {/* <HomePage /> */}
-      <HookProject />
+      <h2>Hi App</h2>
     </div>
   );
 }
