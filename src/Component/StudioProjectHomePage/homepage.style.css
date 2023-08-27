@@ -1,0 +1,10 @@
+.banner-text {
+  font-size: 40px;
+  font-weight: bold;
+}
+
+@media (min-width: 768px) {
+  .banner-text {
+    font-size: 88px;
+  }
+}

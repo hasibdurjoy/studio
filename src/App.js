@@ -1,9 +1,10 @@
 import "./App.css";
+import StudioProject from "./Pages/StudioProject";
 
 function App() {
   return (
     <div>
-      <h2>Hi App</h2>
+      <StudioProject />
     </div>
   );
 }
