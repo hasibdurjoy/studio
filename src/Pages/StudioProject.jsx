@@ -1,5 +1,5 @@
 import React from "react";
-import StudioProjectHome from "../Component/StudioProjectHomePage/StudioProjectHome";
+import StudioProjectHome from "../Component/StudioProjectHome";
 
 const StudioProject = () => {
   return (
