@@ -55,6 +55,8 @@ const SocialMediaLinks = () => {
                 <BsLinkedin className="text-warning mx-2"></BsLinkedin>
                 <SiTwitter className="text-warning mx-2"></SiTwitter>
             </div>
+            <br />
+            <br />
         </Container>
     );
 };
