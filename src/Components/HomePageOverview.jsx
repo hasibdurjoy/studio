@@ -3,6 +3,7 @@ import Banner from "./Banner";
 import SocialMediaLinks from "./WhoWeAre";
 import WhyChooseUs from "./WhyChooseUs";
 import Service from "./Service";
+import Footer from "./Footer";
 
 const HomePageOverview = () => {
     return (
@@ -11,6 +12,7 @@ const HomePageOverview = () => {
             <SocialMediaLinks></SocialMediaLinks>
             <WhyChooseUs></WhyChooseUs>
             <Service></Service>
+            <Footer></Footer>
         </div>
     );
 };
