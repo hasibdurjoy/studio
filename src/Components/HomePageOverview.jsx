@@ -5,6 +5,7 @@ import Agency from "./Agency";
 import Offerings from "./Offerings";
 import MarketingServices from "./MarketingServices";
 import WhyChooseUs from "./WhyChooseUs";
+import Footer from "./Footer";
 
 const HomePageOverview = () => {
   return (
@@ -15,6 +16,7 @@ const HomePageOverview = () => {
       <Offerings />
       <MarketingServices />
       <WhyChooseUs />
+      <Footer />
     </div>
   );
 };
