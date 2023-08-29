@@ -4,6 +4,7 @@ import Header from "./Header";
 import Agency from "./Agency";
 import Offerings from "./Offerings";
 import MarketingServices from "./MarketingServices";
+import WhyChooseUs from "./WhyChooseUs";
 
 const HomePageOverview = () => {
   return (
@@ -13,6 +14,7 @@ const HomePageOverview = () => {
       <Agency />
       <Offerings />
       <MarketingServices />
+      <WhyChooseUs />
     </div>
   );
 };
