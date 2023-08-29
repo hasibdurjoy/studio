@@ -10,7 +10,8 @@ function ColorSchemesExample() {
                 <Container>
                     <Col md={6}>
                         <img
-                            src="https://creavast.com/wp-content/uploads/2020/08/cropped-cropped-cropped-logo-png-111-2-e1610894408730.png"
+                            height="60px"
+                            src="https://i.ibb.co/JkNFQKC/1.png"
                             alt=""
                         />
                     </Col>

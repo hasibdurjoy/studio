@@ -72,11 +72,6 @@ const Service = () => {
                     alt=""
                 />
             </div>
-            <div className="d-flex align-items-center justify-content-between mt-5 bg-light text-dark ">
-                <h4>Privacy Policy</h4>
-                <h4>Service</h4>
-                <h4>Blog</h4>
-            </div>
         </Container>
     );
 };

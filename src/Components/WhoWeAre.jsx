@@ -16,7 +16,7 @@ const SocialMediaLinks = () => {
                     </h2>
                     <h4>
                         <strong>
-                            Creavast…
+                            Markvast…
                             <span className="text-danger">
                                 your creative
                             </span>{" "}

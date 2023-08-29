@@ -22,7 +22,7 @@ const WhyChooseUs = () => {
                                 <div className="card-body">
                                     <h4>
                                         <strong>
-                                            Creavast{" "}
+                                            Markvast{" "}
                                             <span className="text-danger">
                                                 is what
                                             </span>{" "}
@@ -46,7 +46,7 @@ const WhyChooseUs = () => {
                                         region.
                                     </p>
                                     <p>
-                                        Creavast is where experienced
+                                        Markvast is where experienced
                                         professionals team up to guarantee
                                         high-quality products that are delivered
                                         on time and in line with the best
