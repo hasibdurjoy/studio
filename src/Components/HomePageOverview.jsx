@@ -2,6 +2,7 @@ import React from "react";
 import Banner from "./Banner";
 import Header from "./Header";
 import Agency from "./Agency";
+import Offerings from "./Offerings";
 
 const HomePageOverview = () => {
   return (
@@ -9,6 +10,7 @@ const HomePageOverview = () => {
       <Header />
       <Banner />
       <Agency />
+      <Offerings />
     </div>
   );
 };
