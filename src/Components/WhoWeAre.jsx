@@ -1,10 +1,6 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import "bootstrap/dist/css/bootstrap.min.css";
-import { BsFacebook } from "react-icons/bs";
-import { FaInstagramSquare } from "react-icons/fa";
-import { BsLinkedin } from "react-icons/bs";
-import { SiTwitter } from "react-icons/si";
 
 const SocialMediaLinks = () => {
     return (
@@ -49,12 +45,7 @@ const SocialMediaLinks = () => {
                     />
                 </Col>
             </Row>
-            <div className="d-flex align-items-center justify-content-center mt-5 fs-2 ">
-                <BsFacebook className="text-warning mx-2"></BsFacebook>
-                <FaInstagramSquare className="text-warning mx-2"></FaInstagramSquare>
-                <BsLinkedin className="text-warning mx-2"></BsLinkedin>
-                <SiTwitter className="text-warning mx-2"></SiTwitter>
-            </div>
+
             <br />
             <br />
         </Container>
