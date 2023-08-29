@@ -11,7 +11,6 @@ function ColorSchemesExample() {
             <Col md={6}>
               <img height="60px" src="https://i.ibb.co/JkNFQKC/1.png" alt="" />
             </Col>
-
             <Col md={6}>
               <Nav className="me-auto">
                 <Nav.Link href="#home">Home</Nav.Link>
