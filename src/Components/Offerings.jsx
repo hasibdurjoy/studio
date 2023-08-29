@@ -3,7 +3,7 @@ import { Card, Col, Container, Row } from "react-bootstrap";
 
 const Offerings = () => {
   return (
-    <div style={{ backgroundColor: "#F6F6F6" }}>
+    <div style={{ backgroundColor: "#F6F6F6", padding: "20px 0" }}>
       <Container>
         <h2 className="text-center py-5 fs-1">Our Key Digital Offerings</h2>
         <Row xs={1} md={3} className="g-4">

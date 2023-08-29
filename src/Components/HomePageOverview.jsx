@@ -3,6 +3,7 @@ import Banner from "./Banner";
 import Header from "./Header";
 import Agency from "./Agency";
 import Offerings from "./Offerings";
+import MarketingServices from "./MarketingServices";
 
 const HomePageOverview = () => {
   return (
@@ -11,6 +12,7 @@ const HomePageOverview = () => {
       <Banner />
       <Agency />
       <Offerings />
+      <MarketingServices />
     </div>
   );
 };
