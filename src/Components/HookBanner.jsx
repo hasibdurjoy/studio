@@ -23,7 +23,7 @@ const HookBanner = () => {
           height: "100%",
           borderRadius: "10px",
           backgroundImage:
-            "url('https://media.sirusgaming.com/wp-content/uploads/2022/04/The-Spirit-and-Mouse-Switch-Announcement-02-1421x798.jpg')", // Replace with the actual path to your image
+            "url('https://risingmax.com/assets/img/new-images/banner-bg.webp')", // Replace with the actual path to your image
           backgroundSize: "cover",
           display: "flex",
           alignItems: "center",
@@ -44,21 +44,22 @@ const HookBanner = () => {
           }}
         >
           <h6 className="bg-dark rounded-5 p-2">NEW</h6>
-          <h6>Introducing Treasure Hunt Reward</h6>
+          <h6>IT Consulting Company NYC</h6>
         </div>
         <div>
-          <h1
-            className="text-center text-dark"
-            style={{ fontSize: "128px", fontWeight: 800 }}
-          >
+          <p className="text-center text-light">
             {text} <br />
-            NFTs
-          </h1>
+            RisingMax Inc., Top IT Consulting Firm NYC - USA, is a digital
+            transformation catalyst for startups and FORTUNE-500 companies.
+            Leverage our IT consulting services with advanced technologies and
+            smart solutions to streamline business operations, solve current
+            challenges & explore new opportunities.
+          </p>
         </div>
         <Button className="bg-dark rounded-pill py-3 px-5 border-0">
           Get Started
         </Button>
-        <p>Powered by Hook, the NFT-Native Options Protocol.</p>
+        <p>Powered by RisingMax</p>
       </Container>
     </div>
   );

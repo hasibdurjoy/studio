@@ -5,21 +5,21 @@ const MiddlePart = () => {
   const fakeData = [
     {
       id: 1,
-      title: "Earn ETH with your idle NFTs",
-      description:
-        "Hook’s options let you instantly earn ETH by agreeing to list your NFTs above the floor.",
-      image: "https://hook-protocol.com/render-coins-001.png",
+      title: "The Time Is Now",
+      description: `
+        We celebrate the project's success by planting 100+ trees each time. By rewarding or compensating the planting cost, we encourage our clients to plant at least 50 trees. Let's pledge to foster growth and progress by minimizing environmental loss. We develop an IT ecosystem that consumes less energy and empowering businesses worldwide to achieve Net-Zero carbon emissions. The Time Is Now to make a sustainable future and combat climate change.`,
+      image: "https://risingmax.com/assets/img/new-images/risingmax-tree.webp",
     },
     {
       id: 2,
-      title: "Rewards from the Treasure Hunt.",
+      title: "Our Top Clients From All Over The World ",
       description:
-        "You’ll be eligible to claim [redacted] from the chests you discover during the Treasure Hunt.",
+        "We bring a wealth of knowledge and hands-on experience to cater to our client's information technology (IT) requirements and needs. Our IT team crafts business solutions to tackle today’s market challenges and capture growth opportunities. ",
       image: "https://hook-protocol.com/bottle-1.png",
     },
     {
       id: 3,
-      title: "Speculate for a fraction of floor.",
+      title: "NYCs Top IT Consultants: Making Technology Work For You",
       description:
         "Use call options to speculate on NFTs with less capital, capped downside and no liquidations.",
       image: "https://hook-protocol.com/render-top-001.png",
@@ -27,7 +27,7 @@ const MiddlePart = () => {
   ];
   return (
     <Container className="py-5">
-      {fakeData.map((sd) => (
+      {fakeData.map((sd, index) => (
         <Card
           className="shadow-lg my-5 rounded-5 border-0"
           style={{
@@ -73,6 +73,72 @@ const MiddlePart = () => {
             >
               {sd.description}
             </p>
+            <div style={{ display: index === 1 ? "block" : "none" }}>
+              <img
+                src="https://risingmax.com/assets/img/new-images/mobile-app-development-nbc-logo.webp"
+                alt=""
+              />
+              <img
+                src="https://risingmax.com/assets/img/new-images/mobile-app-development-universal-logo.webp"
+                alt=""
+              />
+              <img
+                src=" https://risingmax.com/assets/img/new-images/mobile-app-development-bmw-logo.webp"
+                alt=""
+              />
+              <img
+                src="https://risingmax.com/assets/img/new-images/mobile-app-development-valley-bank.webp"
+                alt=""
+              />
+              <img
+                src="https://risingmax.com/assets/img/new-images/mobile-app-development-dominos-logo.webp"
+                alt=""
+              />
+              <img
+                src="https://risingmax.com/assets/img/new-images/mobile-app-development-deloitte-logo-new.webp"
+                alt=""
+              />
+              <img
+                src="https://risingmax.com/assets/img/new-images/mobile-app-development-philips-logo.webp"
+                alt=""
+              />
+              <img
+                src="https://risingmax.com/assets/img/new-images/mobile-app-development-nestle-logo.webp"
+                alt=""
+              />
+              <img
+                src="https://risingmax.com/assets/img/new-images/mobile-app-development-verizon-logo-new.webp"
+                alt=""
+              />
+              <img
+                src="https://risingmax.com/assets/img/new-images/mobile-app-development-l&t-logo.webp"
+                alt=""
+              />
+              <img
+                src="https://risingmax.com/assets/img/new-images/mobile-app-development-toyota-logo.webp"
+                alt=""
+              />
+              <img
+                src="https://risingmax.com/assets/img/new-images/mobile-app-development-expedia-logo-new.webp"
+                alt=""
+              />
+              <img
+                src="https://risingmax.com/assets/img/new-images/mobile-app-development-pfizer-logo.webp"
+                alt=""
+              />
+              <img
+                src=""
+                alt="https://risingmax.com/assets/img/new-images/mobile-app-development-nandos-logo.webp"
+              />
+              <img
+                src="https://risingmax.com/assets/img/new-images/mobile-app-development-moodys-logo.webp"
+                alt=""
+              />
+              <img
+                src="https://risingmax.com/assets/img/new-images/mobile-app-development-bcg-logo.webp"
+                alt=""
+              />
+            </div>
           </Card.Body>
         </Card>
       ))}

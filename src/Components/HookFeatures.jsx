@@ -5,33 +5,51 @@ const HookFeatures = () => {
   const fakeData = [
     {
       id: 1,
-      title: "Smart contracts audited & insured by Sherlock for up to $5m",
+      title: "IT Consultation & Planning",
+      description:
+        "Our dedicated IT consultants formulate, plan and execute strategies to meet your business information technology (IT) needs and ensure success.",
       image: "https://hook-protocol.com/icon-03.svg",
+      logo: "https://risingmax.com/assets/img/new-images/it-strategy-consulting-services.svg",
     },
     {
       id: 2,
-      title: "Option price recommendations and trade feed",
+      title: " IT Assessment ",
+      description:
+        "Our IT consultation team reviews the existing IT infrastructure, identifies areas of improvement, and provides a written evaluation report.",
       image: "https://hook-protocol.com/icon-01.svg",
+      logo: "https://risingmax.com/assets/img/new-images/it-assessment-service.svg",
     },
     {
       id: 3,
-      title: "Flash Loan your NFTs to collect airdrops",
+      title: "Technology Consultation",
+      description:
+        "After analyzing business IT infrastructure, we suggest adapting new technologies and softwares to improve business productivity and profitability.",
       image: "https://hook-protocol.com/icon-05.svg",
+      logo: "https://risingmax.com/assets/img/new-images/technology-consultation-service.svg",
     },
     {
       id: 4,
-      title: "API to automate your trading",
+      title: "Data Migration Services",
+      description:
+        "Our team carefully analyzes the business IT environment to identify data migration opportunities for increasing efficiency and reducing cost.",
       image: "https://hook-protocol.com/icon-17.svg",
+      logo: "https://risingmax.com/assets/img/new-images/data-migration-service.svg",
     },
     {
       id: 5,
-      title: "Off-chain, real-time option marketplace",
+      title: "IT Security Consulting",
+      description:
+        "Our IT team assesses the security infrastructure to find loopholes and recommend security solutions to safeguard against malicious threats.",
       image: "https://hook-protocol.com/icon-15.svg",
+      logo: "https://risingmax.com/assets/img/new-images/it-security-consulting-service.svg",
     },
     {
       id: 6,
-      title: "Collection-wide orders for immediate liquidity",
+      title: "IT Business Consultation",
+      description:
+        "Businesses can leverage our IT consultation services to identify areas of technology implementation and improve business efficiency.",
       image: "https://hook-protocol.com/icon-10.svg",
+      logo: "https://risingmax.com/assets/img/new-images/it-business-consultation-service.svg",
     },
   ];
   return (
@@ -68,7 +86,7 @@ const HookFeatures = () => {
                 <div
                   style={{
                     color: "rgba(100, 83, 67, 0.4)",
-                    fontSize: "26px",
+                    fontSize: "18px",
                     lineHeight: "1.15",
                     fontWeight: 500,
                     textAlign: "center",
@@ -78,6 +96,8 @@ const HookFeatures = () => {
                 >
                   {sd.title}
                 </div>
+                <img src={sd.logo} alt="" />
+                <div>{sd.description}</div>
               </Card.Body>
             </Card>
           </Col>
