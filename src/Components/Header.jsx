@@ -37,13 +37,13 @@ const Header = () => {
               <NavDropdown.Item href="#action/3.4">
               Media Planning & Buying
               </NavDropdown.Item>
-              <NavDropdown.Item href="#action/3.4">
+              <NavDropdown.Item href="#action/3.5">
               Marketing Automation
               </NavDropdown.Item>
-              <NavDropdown.Item href="#action/3.4">
+              <NavDropdown.Item href="#action/3.6">
               Technology Builds
               </NavDropdown.Item>
-              <NavDropdown.Item href="#action/3.4">
+              <NavDropdown.Item href="#action/3.7">
               Healthcare Marketing
               </NavDropdown.Item>
             </NavDropdown>
@@ -65,7 +65,6 @@ const Header = () => {
               </NavDropdown.Item>
               <NavDropdown.Item href="#action/3.3">MarTech Report</NavDropdown.Item>
               <NavDropdown.Divider />
-              
             </NavDropdown>
           </Nav>
         </div>
