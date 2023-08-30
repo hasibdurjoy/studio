@@ -22,7 +22,8 @@ const MiddlePart = () => {
       title: "NYCs Top IT Consultants: Making Technology Work For You",
       description:
         "Use call options to speculate on NFTs with less capital, capped downside and no liquidations.",
-      image: "https://hook-protocol.com/render-top-001.png",
+      image:
+        "https://risingmax.com/assets/img/new-images/new-york-mobile-app-development.webp",
     },
   ];
   return (
@@ -124,18 +125,6 @@ const MiddlePart = () => {
               />
               <img
                 src="https://risingmax.com/assets/img/new-images/mobile-app-development-pfizer-logo.webp"
-                alt=""
-              />
-              <img
-                src=""
-                alt="https://risingmax.com/assets/img/new-images/mobile-app-development-nandos-logo.webp"
-              />
-              <img
-                src="https://risingmax.com/assets/img/new-images/mobile-app-development-moodys-logo.webp"
-                alt=""
-              />
-              <img
-                src="https://risingmax.com/assets/img/new-images/mobile-app-development-bcg-logo.webp"
                 alt=""
               />
             </div>

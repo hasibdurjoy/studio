@@ -1,5 +1,5 @@
 import React from "react";
-import { Button, Container } from "react-bootstrap";
+import { Button, Col, Container, Row } from "react-bootstrap";
 import { AiOutlineTwitter } from "react-icons/ai";
 import { BsDiscord } from "react-icons/bs";
 
@@ -52,6 +52,50 @@ const Hook = () => {
             <p style={{ color: "#F6D08D" }}>© 2023 Abstract Labs, Inc.</p>
           </div>
         </div>
+        <Container>
+          <div>
+            <Row>
+              <Col md={3}>
+                <img
+                  height="100px"
+                  // src="https://i.ibb.co/smdhcQm/1.png"
+                  alt=""
+                />
+                <p>(Erstwhile Social Wavelength)</p>
+              </Col>
+              <Col md={3}>
+                <h2>Useful Links</h2>
+                <p>About Us</p>
+                <p>Jobs @ Mirumark</p>
+                <p>Insights</p>
+                <p>Media Coverage</p>
+              </Col>
+              <Col md={3}>
+                <h2>Our Services</h2>
+                <p>Digital Advertising & Communication</p>
+                <p>MarTech Services</p>
+                <p>Healthcare Marketing</p>
+              </Col>
+              <Col md={3}>
+                <h2>Quick Links</h2>
+                <p>Mirumark Events</p>
+                <p>Creative Showcase</p>
+                <p>CSR</p>
+              </Col>
+            </Row>
+            <Row className="mt-5">
+              <Col md={4}>
+                <p>© 2023 Hook India, a WPP Company</p>
+              </Col>
+              <Col md={4}>
+                <p>Privacy Policy</p>
+              </Col>
+              <Col md={4}>
+                <p>Follow us</p>
+              </Col>
+            </Row>
+          </div>
+        </Container>
       </Container>
     </div>
   );
