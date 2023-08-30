@@ -11,7 +11,8 @@ const Footer = () => {
           <Row>
             <Col md={3}>
               <img
-                src="https://www.mirumindia.com/hs-fs/hubfs/raw_assets/public/Mirum_June2022/images/mirum_logo_white-1.png?width=207&name=mirum_logo_white-1.png"
+              height='100px'
+                src="https://i.ibb.co/smdhcQm/1.png"
                 alt=""
               />
               <p>(Erstwhile Social Wavelength)</p>
@@ -19,7 +20,7 @@ const Footer = () => {
             <Col md={3}>
               <h2>Useful Links</h2>
               <p>About Us</p>
-              <p>Jobs @ Mirum</p>
+              <p>Jobs @ Mirumark</p>
               <p>Insights</p>
               <p>Media Coverage</p>
             </Col>
@@ -31,14 +32,14 @@ const Footer = () => {
             </Col>
             <Col md={3}>
               <h2>Quick Links</h2>
-              <p>Mirum Events</p>
+              <p>Mirumark Events</p>
               <p>Creative Showcase</p>
               <p>CSR</p>
             </Col>
           </Row>
           <Row className="mt-5">
             <Col md={4}>
-              <p>© 2021 Mirum India, a WPP Company</p>
+              <p>© 2023 Mirumark India, a WPP Company</p>
             </Col>
             <Col md={4}>
               <p>Privacy Policy</p>

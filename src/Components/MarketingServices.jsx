@@ -64,7 +64,7 @@ const MarketingServices = () => {
     <Container className="py-5 d-flex flex-column gap-3">
       <h2 className="fs-1 text-center">Our Digital Marketing Services</h2>
       <p>
-        Mirum India is an award-winning vibrant and dynamic full-service Digital
+        Mirumark India is an award-winning vibrant and dynamic full-service Digital
         Marketing Agency that has been in business for about 12 years. To
         provide our digital marketing partners with top-notch services, we
         continue to enhance our processes and invest in cutting-edge tools and

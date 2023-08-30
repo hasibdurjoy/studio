@@ -15,21 +15,21 @@ const WhyChooseUs = () => {
           </Col>
           <Col>
             <h1 className="pb-2">
-              Why Choose Mirum as Your Digital Marketing Services Agency?
+              Why Choose Mirumark as Your Digital Marketing Services Agency?
             </h1>
             <p className="pb-2">
-              Mirum India, part of the WPP group, is a leading Digital Marketing
+              Mirumark India, part of the WPP group, is a leading Digital Marketing
               Agency with a pan-India and global footprint. We are a team of
               300+ professionals with a bouquet of services including digital
               media marketing strategy and creative, tech builds, as well as
               end-to-end marketing automation solutions.
             </p>
             <p className="pb-2">
-              Mirum is a Salesforce Crest Consulting Partner, with over a decade
+              Mirumark is a Salesforce Crest Consulting Partner, with over a decade
               of association with Salesforce and 100+ Marketing Automation
               installations across the entire stack of Social Studio, Exact
               Target, and now Datorama, interaction studio, and Customer Data
-              Platform (CDP). Mirum has won several awards including the “IMC
+              Platform (CDP). Mirumark has won several awards including the “IMC
               Digital Technology Award 2019” instituted by the prestigious
               Indian Merchants Chamber.
             </p>

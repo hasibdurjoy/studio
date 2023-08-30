@@ -21,21 +21,21 @@ const Agency = () => {
         Our Digital Marketing Agency specializes in knowing the latest marketing
         trends and employs a wide variety of different tactics, strategies, and
         online tools to help your business attain its marketing and sales goals.
-        Mirum’s Digital Marketing Services can be effective in any sector,
+        Mirumark Digital Marketing Services can be effective in any sector,
         regardless of the products or services your business offers. We help you
         focus on audiences with a global reach and allow your brand to target a
         more niche audience.
       </p>
       <div className="d-flex justify-content-center">
-        <iframe
+        {/* <iframe
           width="800"
           height="415"
-          src="https://www.youtube.com/embed/3f_FkgXzC1U?si=nAbRRhIDxzTtieLL"
+          // src="https://www.youtube.com/embed/3f_FkgXzC1U?si=nAbRRhIDxzTtieLL"
           title="YouTube video player"
           frameborder="0"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
           allowfullscreen
-        ></iframe>
+        ></iframe> */}
       </div>
     </Container>
   );

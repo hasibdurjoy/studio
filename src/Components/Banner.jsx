@@ -19,7 +19,7 @@ const Banner = () => {
           ></div>
           <h6>A Wunderman Thompson Company | WPP Agency</h6>
         </div>
-        <h1 style={{ fontSize: "80px", fontWeight: 800 }}>Mirum India</h1>
+        <h1 style={{ fontSize: "80px", fontWeight: 800 }}>Miru Mark</h1>
         <p>Where Creativity Meets Ingenuity!</p>
         <Button variant="contained" className="bg-light rounded-pill text-dark">
           Lets Connect
