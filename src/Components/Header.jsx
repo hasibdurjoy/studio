@@ -1,38 +1,48 @@
-import React from "react";
-import { Nav, NavDropdown } from "react-bootstrap";
+import Button from "react-bootstrap/Button";
+import Container from "react-bootstrap/Container";
+import Form from "react-bootstrap/Form";
+import Nav from "react-bootstrap/Nav";
+import Navbar from "react-bootstrap/Navbar";
+import NavDropdown from "react-bootstrap/NavDropdown";
 
 const Header = () => {
   return (
-    <div className="mx-5 pt-1">
-      <div className="d-flex align-items-center justify-content-between">
+    <Navbar expand="lg" className="bg-body-tertiary">
+      <Container className=" d-flex align-items-center justify-content-between">
         <div>
-          <img
-            src="https://assets.hongkiat.com/uploads/psd-text-svg/logo-example.jpg"
-            alt=""
-            height="60px"
-          />
+          <Navbar.Brand href="#">
+            <img
+              height="50px"
+              src="https://assets.hongkiat.com/uploads/psd-text-svg/logo-example.jpg"
+              alt=""
+            />
+          </Navbar.Brand>
         </div>
-        <div className="d-flex align-items-center  gap-5">
-          <Nav className="me-auto">
-            <Nav.Link href="#home">Home</Nav.Link>
-            <Nav.Link href="#link">Join Us</Nav.Link>
-            <Nav.Link href="#link">Say Hello</Nav.Link>
-            <NavDropdown title="Resources" id="basic-nav-dropdown">
-              <NavDropdown.Item href="#action/3.1">
-                Mirumark Events
-              </NavDropdown.Item>
-              <NavDropdown.Item href="#action/3.2">
-                Creative Showcase
-              </NavDropdown.Item>
-              <NavDropdown.Item href="#action/3.3">
-                MarTech Report
+        <div>
+          <Nav
+            className="me-auto my-2 my-lg-0"
+            style={{ maxHeight: "100px" }}
+            navbarScroll
+          >
+            <Nav.Link href="#action1">Home</Nav.Link>
+            <Nav.Link href="#action2">Link</Nav.Link>
+            <NavDropdown title="Link" id="navbarScrollingDropdown">
+              <NavDropdown.Item href="#action3">Action</NavDropdown.Item>
+              <NavDropdown.Item href="#action4">
+                Another action
               </NavDropdown.Item>
               <NavDropdown.Divider />
+              <NavDropdown.Item href="#action5">
+                Something else here
+              </NavDropdown.Item>
             </NavDropdown>
+            <Nav.Link href="#" disabled>
+              Link
+            </Nav.Link>
           </Nav>
         </div>
-      </div>
-    </div>
+      </Container>
+    </Navbar>
   );
 };
 
