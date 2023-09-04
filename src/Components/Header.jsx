@@ -5,13 +5,13 @@ import NavDropdown from "react-bootstrap/NavDropdown";
 
 const Header = () => {
   return (
-    <Navbar expand="lg" className="bg-body-tertiary">
+    <Navbar expand="lg" style={{ backgroundColor: "#2D4798", color: "white" }}>
       <Container className=" d-flex align-items-center justify-content-between">
         <div>
           <Navbar.Brand href="#">
             <img
               height="50px"
-              src="https://assets.hongkiat.com/uploads/psd-text-svg/logo-example.jpg"
+              src="https://www.hitsvalue.com/wp-content/uploads/2021/04/logo-Hitsvalue.png"
               alt=""
             />
           </Navbar.Brand>
