@@ -5,7 +5,7 @@ import NavDropdown from "react-bootstrap/NavDropdown";
 
 const Header = () => {
   return (
-    <Navbar expand="lg" style={{ backgroundColor: "#2D4798", color: "white" }}>
+    <Navbar expand="lg" style={{ color: "white" }}>
       <Container className=" d-flex align-items-center justify-content-between">
         <div>
           <Navbar.Brand href="#">

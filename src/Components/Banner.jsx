@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { Container } from "react-bootstrap";
+import Header from "./Header";
 
 const Banner = () => {
   const [view, setView] = useState("one");
@@ -23,9 +24,10 @@ const Banner = () => {
         backgroundRepeat: "no-repeat",
         backgroundSize: "cover",
       }}
-      className="py-4"
+      className="pb-4"
     >
-      <Container>
+      <Header />
+      <Container className="pt-5">
         <div className="d-flex align-items-center justify-content-between">
           <div style={{ width: "50%" }}>
             <h4>Welcome</h4>
