@@ -3,6 +3,7 @@ body {
   font-family: 'Nunito', serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  color: #3b3663;
 }
 
 code {

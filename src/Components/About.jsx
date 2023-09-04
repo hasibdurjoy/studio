@@ -8,7 +8,7 @@ const About = () => {
         style={{
           textAlign: "center",
           marginTop: "20px",
-          color: "black",
+          color: "#3b3663",
           fontSize: "40px",
           fontWeight: 800,
         }}
@@ -19,7 +19,7 @@ const About = () => {
         style={{
           textAlign: "center",
           marginTop: "20px",
-          color: "black",
+          color: "#3b3663",
           fontSize: "20px",
           fontWeight: 800,
         }}
