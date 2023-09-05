@@ -49,7 +49,7 @@ const HookBanner = () => {
         <div>
           <p className="text-center text-light">
             {text} <br />
-            RisingMax Inc., Top IT Consulting Firm NYC - USA, is a digital
+            Hook Media Inc., Top IT Consulting Firm NYC - USA, is a digital
             transformation catalyst for startups and FORTUNE-500 companies.
             Leverage our IT consulting services with advanced technologies and
             smart solutions to streamline business operations, solve current
@@ -59,7 +59,7 @@ const HookBanner = () => {
         <Button className="bg-dark rounded-pill py-3 px-5 border-0">
           Get Started
         </Button>
-        <p>Powered by RisingMax</p>
+        <p>Powered by Hook Media</p>
       </Container>
     </div>
   );
