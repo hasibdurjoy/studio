@@ -1,5 +1,5 @@
 import React from "react";
-import { Container, Row } from "react-bootstrap";
+import { Container } from "react-bootstrap";
 
 const History = () => {
   return (
@@ -13,16 +13,16 @@ const History = () => {
             <h3 className="fw-bold fs-3 text-center">Successful Projects</h3>
           </div>
           <div>
-            <h1 className="fw-bold fs-1 text-primary text-center">150</h1>
-            <h3 className="fw-bold fs-3 text-center">Successful Projects</h3>
+            <h1 className="fw-bold fs-1 text-primary text-center">105</h1>
+            <h3 className="fw-bold fs-3 text-center">Happy Users</h3>
           </div>
           <div>
-            <h1 className="fw-bold fs-1 text-primary text-center">150</h1>
-            <h3 className="fw-bold fs-3 text-center">Successful Projects</h3>
+            <h1 className="fw-bold fs-1 text-primary text-center">100</h1>
+            <h3 className="fw-bold fs-3 text-center">Client Satisfactions</h3>
           </div>
           <div>
-            <h1 className="fw-bold fs-1 text-primary text-center">150</h1>
-            <h3 className="fw-bold fs-3 text-center">Successful Projects</h3>
+            <h1 className="fw-bold fs-1 text-primary text-center">6</h1>
+            <h3 className="fw-bold fs-3 text-center">Years of Experience</h3>
           </div>
         </div>
       </Container>

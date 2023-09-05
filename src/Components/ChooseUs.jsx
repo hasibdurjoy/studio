@@ -27,27 +27,26 @@ const ChooseUs = () => {
           </p>
         </ul>
         <ul>
-          <li>Best team of experts</li>
+          <li>Ubiquitous Availability</li>
           <p>
-            Our dynamic team of experts with proven skills having more than 10
-            years of experience design bespoke solutions that best suit your
-            business needs, market, and your industry.
+            Our customer support team will always be there to update about the
+            work progress and give prompt response whenever you need us.
           </p>
         </ul>
         <ul>
-          <li>Best team of experts</li>
+          <li>Customized Services</li>
           <p>
-            Our dynamic team of experts with proven skills having more than 10
-            years of experience design bespoke solutions that best suit your
-            business needs, market, and your industry.
+            We fulfill any type of custom request, which helps you drive high
+            website traffic or gain more conversions. We never follow a fixed
+            protocol! HitsValue is adaptable to the latest trends and
+            technologies.
           </p>
         </ul>
         <ul>
-          <li>Best team of experts</li>
+          <li>Affordability</li>
           <p>
-            Our dynamic team of experts with proven skills having more than 10
-            years of experience design bespoke solutions that best suit your
-            business needs, market, and your industry.
+            We value your money so we have a conservative pricing structure and
+            eye for ROI.
           </p>
         </ul>
         <div className="d-flex justify-content-center">

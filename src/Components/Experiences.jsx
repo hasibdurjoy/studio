@@ -23,7 +23,7 @@ const Experiences = () => {
     {
       id: "3",
       title: "Social Media Marketing",
-      des: "HitsValue specializes in designing and implementing customized SEO campaigns to help start-ups, SMEs, and MNCs increase brand visibility, drive profitability, & improve brand reputation.",
+      des: "We carry out a full audit across all of your social media channels. We deeply analyze competitors’ activity, social media performance and make recommendations for your social channels.",
       image:
         "https://www.hitsvalue.com/wp-content/uploads/2019/12/figure_icon3_hover.png",
     },

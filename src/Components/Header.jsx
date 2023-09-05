@@ -22,21 +22,29 @@ const Header = () => {
             style={{ maxHeight: "100px" }}
             navbarScroll
           >
-            <Nav.Link href="#action1">Home</Nav.Link>
-            <Nav.Link href="#action2">Link</Nav.Link>
-            <NavDropdown title="Link" id="navbarScrollingDropdown">
-              <NavDropdown.Item href="#action3">Action</NavDropdown.Item>
+            <Nav.Link href="#action1">Service</Nav.Link>
+            <Nav.Link href="#action2">Portfolio</Nav.Link>
+            <Nav.Link href="#action2">Blogs</Nav.Link>
+            <Nav.Link href="#action2">About Us</Nav.Link>
+            <Nav.Link href="#action2">Contact Us</Nav.Link>
+            <NavDropdown title="Services" id="navbarScrollingDropdown">
+              <NavDropdown.Item href="#action3">
+                Digital Marketing For Travel Industry
+              </NavDropdown.Item>
               <NavDropdown.Item href="#action4">
-                Another action
+                Digital Marketing For Real Estate Industry
+              </NavDropdown.Item>
+              <NavDropdown.Item href="#action4">
+                Digital Marketing for Healthcare Industry
+              </NavDropdown.Item>
+              <NavDropdown.Item href="#action4">
+                Digital Marketing For Plumbing Industry
               </NavDropdown.Item>
               <NavDropdown.Divider />
               <NavDropdown.Item href="#action5">
-                Something else here
+                Digital Marketing For Law Firm
               </NavDropdown.Item>
             </NavDropdown>
-            <Nav.Link href="#" disabled>
-              Link
-            </Nav.Link>
           </Nav>
         </div>
       </Container>
