@@ -9,14 +9,14 @@ const Experiences = () => {
     {
       id: "1",
       title: "Marketing for Amazon",
-      des: "HitsValue with its team of extensively-trained and dedicated marketing experts provides comprehensive strategies to help you gain incredible business results on Amazon platform.",
+      des: "Social Value with its team of extensively-trained and dedicated marketing experts provides comprehensive strategies to help you gain incredible business results on Amazon platform.",
       image:
         "https://www.hitsvalue.com/wp-content/uploads/2019/12/figure_icon1_hover.png",
     },
     {
       id: "2",
       title: "Search Engine Optimization",
-      des: "HitsValue specializes in designing and implementing customized SEO campaigns to help start-ups, SMEs, and MNCs increase brand visibility, drive profitability, & improve brand reputation.",
+      des: "Social Value specializes in designing and implementing customized SEO campaigns to help start-ups, SMEs, and MNCs increase brand visibility, drive profitability, & improve brand reputation.",
       image:
         "https://www.hitsvalue.com/wp-content/uploads/2019/12/figure_icon2_hover.png",
     },

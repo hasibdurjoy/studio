@@ -17,7 +17,7 @@ const ChooseUs = () => {
     >
       <Container style={{ paddingTop: "100px", paddingBottom: "20px" }}>
         <p className="text-center">Why Choose Us</p>
-        <h2 className="text-center">Promote your business with HitsValue</h2>
+        <h2 className="text-center">Promote your business with Social Value</h2>
         <ul>
           <li>Best team of experts</li>
           <p>

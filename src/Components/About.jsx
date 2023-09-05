@@ -24,15 +24,15 @@ const About = () => {
           fontWeight: 800,
         }}
       >
-        HitsValue is a top-notch digital marketing company based in India, and
-        is a trusted partner of various businesses globally. If you are looking
-        for research-driven online marketing strategies to win & succeed the
-        competitors in this digital race, HitsValue is your one-stop solution.
-        Our clients resorts to our online marketing services to maximize their
-        ROI. HitsValue is reputed for its bespoke services. We help you reach
-        more customers, boost leads, grow your business, and get the winning
-        edge over your competitors. Geographical barriers are no more a limit to
-        expand your brand online.
+        Social Value is a top-notch digital marketing company based in India,
+        and is a trusted partner of various businesses globally. If you are
+        looking for research-driven online marketing strategies to win & succeed
+        the competitors in this digital race, HitsValue is your one-stop
+        solution. Our clients resorts to our online marketing services to
+        maximize their ROI. HitsValue is reputed for its bespoke services. We
+        help you reach more customers, boost leads, grow your business, and get
+        the winning edge over your competitors. Geographical barriers are no
+        more a limit to expand your brand online.
       </p>
     </Container>
   );

@@ -15,12 +15,12 @@ const Footer = () => {
                 src="https://i.ibb.co/ZVmxpN6/logo-transparent.png"
                 alt=""
               />
-              <p className="mt-4">Content</p>
+              <p className="mt-4">Create by Circle INC</p>
             </Col>
             <Col md={3}>
               <h2>Useful Links</h2>
               <p>About Us</p>
-              <p>Jobs @ Mirumark</p>
+              <p>Jobs @ Social Value</p>
               <p>Insights</p>
               <p>Media Coverage</p>
             </Col>
@@ -32,13 +32,13 @@ const Footer = () => {
             </Col>
             <Col md={3}>
               <h2>Quick Links</h2>
-              <p>Mirumark Events</p>
+              <p>Social Value Events</p>
               <p>Creative Showcase</p>
               <p>CSR</p>
             </Col>
           </Row>
           <div>
-            <p className="text-center mt-4">© 2023 Copyright</p>
+            <p className="text-center mt-4">© 2023 Copyright by Social Value</p>
           </div>
         </div>
       </Container>
