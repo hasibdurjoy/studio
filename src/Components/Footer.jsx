@@ -15,32 +15,31 @@ const Footer = () => {
                 src="https://i.ibb.co/qy3YJwN/Untitled-design-9.png"
                 alt=""
               />
-              <p className="mt-4">Content</p>
+              <p className="mt-4">Content By Circle INC</p>
             </Col>
             <Col md={3}>
-              <h2>Section -1</h2>
-              <p>Links</p>
-              <p>Links</p>
-              <p>Links</p>
-              <p>Links</p>
+              <h2>Useful Links</h2>
+              <p>About Us</p>
+              <p>Jobs @ I Genious</p>
+              <p>Insights</p>
+              <p>Media Coverage</p>
             </Col>
             <Col md={3}>
-              <h2>Section - 2</h2>
-              <p>Links</p>
-              <p>Links</p>
-              <p>Links</p>
-              <p>Links</p>
+              <h2>Our Services</h2>
+              <p>Strategize</p>
+              <p>Innovate</p>
+              <p>Integrate</p>
+              <p>Optimizeg</p>
             </Col>
             <Col md={3}>
-              <h2>Section - 3</h2>
-              <p>Link</p>
-              <p>Link</p>
-              <p>Link</p>
-              <p>Link</p>
+              <h2>Quick Links</h2>
+              <p>I Genious Events</p>
+              <p>Creative Showcase</p>
+              <p>CSR</p>
             </Col>
           </Row>
           <div>
-            <p className="text-center mt-4">© 2023 Copyright</p>
+            <p className="text-center mt-4">© 2023 Copyright By I Genious</p>
           </div>
         </div>
       </Container>

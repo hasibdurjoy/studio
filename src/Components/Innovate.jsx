@@ -11,19 +11,19 @@ const Innovate = () => {
     },
     {
       id: 2,
-      name: "Innovate",
+      name: "Strategize",
       des: "The process of leveraging business and technological acumen to develop a complete and systematic plan of action geared towards gaining a marked competitive advantage for our clients.​",
       image: "https://i.ibb.co/0p0xndw/Screenshot-2.png",
     },
     {
       id: 3,
-      name: "Innovate",
+      name: "Integrate",
       des: "Effective integration is the hallmark of an efficient, effective and high performing enterprise. SAP Business One, SAP Business by Design and SAP Business Objects are best of breed solutions to help you integrate your operation.​",
       image: "https://i.ibb.co/Hd4vH64/Screenshot-3.png",
     },
     {
       id: 4,
-      name: "Innovate",
+      name: "Optimize",
       des: "Optimization is ensuring the most effective and efficient use of available resources (people, process & technology). Leveraging the best in-class tools and iStrat’s Innovative & Strategic services, we provide the optimal recipe for optimizing our clients technological and business landscapes.​",
       image: "https://i.ibb.co/4VN5Dh5/Screenshot-4.png",
     },
