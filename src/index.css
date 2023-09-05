@@ -9,3 +9,14 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.line {
+  height: 2px;
+  width: 100%;
+  background-color: #000;
+}
+
+.star {
+  font-size: 48px;
+  color: black; /* Star color (gold) */
+}
