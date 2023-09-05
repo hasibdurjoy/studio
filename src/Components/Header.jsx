@@ -11,9 +11,10 @@ const Header = () => {
           <Navbar.Brand href="#">
             <img
               height="50px"
-              src="https://www.hitsvalue.com/wp-content/uploads/2021/04/logo-Hitsvalue.png"
+              src="https://i.ibb.co/ZVmxpN6/logo-transparent.png"
               alt=""
             />
+            {/* <a href="https://ibb.co/yXSqcVn"><img src="https://i.ibb.co/ZVmxpN6/logo-transparent.png" alt="logo-transparent" border="0"></a> */}
           </Navbar.Brand>
         </div>
         <div>

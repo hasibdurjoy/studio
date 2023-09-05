@@ -12,31 +12,29 @@ const Footer = () => {
             <Col md={3}>
               <img
                 height="100px"
-                src="https://assets.hongkiat.com/uploads/psd-text-svg/logo-example.jpg"
+                src="https://i.ibb.co/ZVmxpN6/logo-transparent.png"
                 alt=""
               />
               <p className="mt-4">Content</p>
             </Col>
             <Col md={3}>
-              <h2>Section -1</h2>
-              <p>Links</p>
-              <p>Links</p>
-              <p>Links</p>
-              <p>Links</p>
+              <h2>Useful Links</h2>
+              <p>About Us</p>
+              <p>Jobs @ Mirumark</p>
+              <p>Insights</p>
+              <p>Media Coverage</p>
             </Col>
             <Col md={3}>
-              <h2>Section - 2</h2>
-              <p>Links</p>
-              <p>Links</p>
-              <p>Links</p>
-              <p>Links</p>
+              <h2>Our Services</h2>
+              <p>Digital Advertising & Communication</p>
+              <p>MarTech Services</p>
+              <p>Healthcare Marketing</p>
             </Col>
             <Col md={3}>
-              <h2>Section - 3</h2>
-              <p>Link</p>
-              <p>Link</p>
-              <p>Link</p>
-              <p>Link</p>
+              <h2>Quick Links</h2>
+              <p>Mirumark Events</p>
+              <p>Creative Showcase</p>
+              <p>CSR</p>
             </Col>
           </Row>
           <div>
