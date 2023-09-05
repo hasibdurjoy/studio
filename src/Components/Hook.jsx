@@ -61,7 +61,7 @@ const Hook = () => {
                   src="https://i.ibb.co/gwNyczJ/logo-transparent.png"
                   alt=""
                 />
-                <p>(Erstwhile Social Wavelength)</p>
+                <p>Create by Circle INC</p>
               </Col>
               <Col md={3}>
                 <h2>Useful Links</h2>
