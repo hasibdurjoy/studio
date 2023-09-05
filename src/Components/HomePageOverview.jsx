@@ -4,7 +4,7 @@ import Innovate from "./Innovate";
 import Introduction from "./Introduction";
 import Solutions from "./Solutions";
 import Contents from "./Contents";
-import Location from "./Location";
+// import Location from "./Location";
 
 const HomePageOverview = () => {
   return (
@@ -14,7 +14,7 @@ const HomePageOverview = () => {
       <Introduction />
       <Solutions />
       <Contents />
-      <Location />
+      {/* <Location /> */}
     </div>
   );
 };

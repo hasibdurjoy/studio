@@ -6,30 +6,26 @@ const Innovate = () => {
     {
       id: 1,
       name: "Innovate",
-      des: "At iStrat we focus on the various innovative solutions of our partners. Innovation in SAP Business is focused on leveraging current and emerging technologies such as Internet of Things; Machine Learning; Cloud Technologies and Mobile Technologies etc.​",
-      image:
-        "https://freeiconshop.com/wp-content/uploads/edd/image-outline-filled.png",
+      des: "At igenious we focus on the various innovative solutions of our partners. Innovation in SAP Business is focused on leveraging current and emerging technologies such as Internet of Things; Machine Learning; Cloud Technologies and Mobile Technologies etc.​",
+      image: "https://i.ibb.co/rdCWvr8/Screenshot-1.png",
     },
     {
-      id: 1,
+      id: 2,
       name: "Innovate",
-      des: "At iStrat we focus on the various innovative solutions of our partners. Innovation in SAP Business is focused on leveraging current and emerging technologies such as Internet of Things; Machine Learning; Cloud Technologies and Mobile Technologies etc.​",
-      image:
-        "https://freeiconshop.com/wp-content/uploads/edd/image-outline-filled.png",
+      des: "The process of leveraging business and technological acumen to develop a complete and systematic plan of action geared towards gaining a marked competitive advantage for our clients.​",
+      image: "https://i.ibb.co/0p0xndw/Screenshot-2.png",
     },
     {
-      id: 1,
+      id: 3,
       name: "Innovate",
-      des: "At iStrat we focus on the various innovative solutions of our partners. Innovation in SAP Business is focused on leveraging current and emerging technologies such as Internet of Things; Machine Learning; Cloud Technologies and Mobile Technologies etc.​",
-      image:
-        "https://freeiconshop.com/wp-content/uploads/edd/image-outline-filled.png",
+      des: "Effective integration is the hallmark of an efficient, effective and high performing enterprise. SAP Business One, SAP Business by Design and SAP Business Objects are best of breed solutions to help you integrate your operation.​",
+      image: "https://i.ibb.co/Hd4vH64/Screenshot-3.png",
     },
     {
-      id: 1,
+      id: 4,
       name: "Innovate",
-      des: "At iStrat we focus on the various innovative solutions of our partners. Innovation in SAP Business is focused on leveraging current and emerging technologies such as Internet of Things; Machine Learning; Cloud Technologies and Mobile Technologies etc.​",
-      image:
-        "https://freeiconshop.com/wp-content/uploads/edd/image-outline-filled.png",
+      des: "Optimization is ensuring the most effective and efficient use of available resources (people, process & technology). Leveraging the best in-class tools and iStrat’s Innovative & Strategic services, we provide the optimal recipe for optimizing our clients technological and business landscapes.​",
+      image: "https://i.ibb.co/4VN5Dh5/Screenshot-4.png",
     },
   ];
   return (
