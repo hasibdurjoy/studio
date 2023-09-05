@@ -4,6 +4,7 @@ import About from "./About";
 import Experiences from "./Experiences";
 import Services from "./Services";
 import ChooseUs from "./ChooseUs";
+import History from "./History";
 
 const HomePageOverview = () => {
   return (
@@ -13,6 +14,7 @@ const HomePageOverview = () => {
       <Experiences />
       <Services />
       <ChooseUs />
+      <History />
     </div>
   );
 };
