@@ -32,7 +32,7 @@ const Contents = () => {
             </div>
             <h1>Enterprise Resource Planning (ERP)</h1>
             <p>
-              iStrat Solutions and SAP Business One offer an affordable way to
+              iGenious Solutions and SAP Business One offer an affordable way to
               manage your growing business. Trusted by over 70,000 companies in
               over 170 countries, this single solution streamlines your key
               processes. Remarkable business transformation starts on DAY ONE
@@ -110,7 +110,7 @@ const Contents = () => {
             </div>
             <h1>Web Solutions</h1>
             <li className="mt-2">
-              iStrat RE is a great solution that covers all aspects of a Real
+              iGenious RE is a great solution that covers all aspects of a Real
               Estate Business. The platform enables Property managers, Tenants,
               agents, agencies, owners, sellers, buyers, and builders to perform
               their daily task while automatically integrating information in
@@ -118,12 +118,12 @@ const Contents = () => {
               customer statements etc.
             </li>
             <li className="mt-2">
-              iStrat Fintec solution enables the online input of loan
+              iGenious Fintec solution enables the online input of loan
               applicaiton data and allows for seamless integraiton with back-end
               ERP to automatically create reports, statements etc.
             </li>
             <li className="mt-2">
-              iStrat e-Forms & Data Integration: Capture, validate, and submit
+              iGenious e-Forms & Data Integration: Capture, validate, and submit
               data using electronic forms: an easier, faster, and more efficient
               way for collecting data. By using our E-forms solutions, you will
               be decreasing costs and increasing your data protection and

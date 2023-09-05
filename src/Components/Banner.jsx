@@ -1,8 +1,6 @@
 import React from "react";
-import { Container } from "react-bootstrap";
 
 const Banner = () => {
-  
   return (
     <div style={{ height: "90vh" }}>
       <div style={{ height: "100%" }}>
