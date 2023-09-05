@@ -55,6 +55,18 @@ const Banner = () => {
             >
               {view === "one" ? "For Selling Online" : "For your Ideas"}
             </h2>
+            <p>
+              Ensuring the best return on investment for your bespoke SEO
+              campaign requirement.
+            </p>
+            <div className="d-flex gap-4">
+              <button className="bg-primary px-4 py-3 rounded border-0 text-light fw-bold">
+                More About Us
+              </button>
+              <button className="bg-warning px-4 py-3 rounded border-0 text-light fw-bold">
+                Contact Today
+              </button>
+            </div>
           </div>
           <div className="d-flex justify-content-end">
             <img
