@@ -58,7 +58,7 @@ const Hook = () => {
               <Col md={3}>
                 <img
                   height="100px"
-                  // src="https://i.ibb.co/smdhcQm/1.png"
+                  src="https://i.ibb.co/gwNyczJ/logo-transparent.png"
                   alt=""
                 />
                 <p>(Erstwhile Social Wavelength)</p>
