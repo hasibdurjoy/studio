@@ -10,8 +10,8 @@ const Header = () => {
         <div>
           <Navbar.Brand href="#">
             <img
-              height="50px"
-              src="https://assets.hongkiat.com/uploads/psd-text-svg/logo-example.jpg"
+              height="80px"
+              src="https://istratsolutions.com/wp-content/uploads/2023/05/iStratSolutions-02w_Horizontal_white.png.png"
               alt=""
             />
           </Navbar.Brand>
