@@ -16,31 +16,34 @@ const Footer = () => {
                 alt=""
               />
               <p className="mt-4">Content</p>
+              <p>
+                ddress : House 92, Road 11, Dhanmondi City/Town Dhaka
+                State/Province/Region Dhaka Zip/Postal Code 1209 Phone : +44
+                7453162995
+              </p>
             </Col>
             <Col md={3}>
-              <h2>Section -1</h2>
-              <p>Links</p>
-              <p>Links</p>
-              <p>Links</p>
-              <p>Links</p>
+              <h2>Useful Links</h2>
+              <p>About Us</p>
+              <p>Jobs @ AdsStriking</p>
+              <p>Insights</p>
+              <p>Media Coverage</p>
             </Col>
             <Col md={3}>
-              <h2>Section - 2</h2>
-              <p>Links</p>
-              <p>Links</p>
-              <p>Links</p>
-              <p>Links</p>
+              <h2>Our Services</h2>
+              <p>Digital Advertising & Communication</p>
+              <p>AdsStriking Services</p>
+              <p>Healthcare Marketing</p>
             </Col>
             <Col md={3}>
-              <h2>Section - 3</h2>
-              <p>Link</p>
-              <p>Link</p>
-              <p>Link</p>
-              <p>Link</p>
+              <h2>Quick Links</h2>
+              <p>AdsStriking Events</p>
+              <p>Creative Showcase</p>
+              <p>CSR</p>
             </Col>
           </Row>
           <div>
-            <p className="text-center mt-4">© 2023 Copyright</p>
+            <p className="text-center mt-4">© 2021 Copyright By AdsStrikinge</p>
           </div>
         </div>
       </Container>
