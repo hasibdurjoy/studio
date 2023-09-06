@@ -14,7 +14,10 @@ const Banner = () => {
       <Container>
         <div className="d-flex align-items-center justify-content-between pt-4">
           <h2>TECHLAND SOLUTION</h2>
-          <h4>Menu</h4>
+          <h4>Home </h4>
+          <h4>About US</h4>
+          <h4>Service</h4>
+          <h4>Contact Us</h4>
         </div>
         <div
           className="d-flex align-items-center justify-content-between mx-5 gap-4"
@@ -42,7 +45,7 @@ const Banner = () => {
             </div>
           </div>
           <div>
-            <ul>
+            {/* <ul>
               <li className="pb-3">
                 <span>ABOUT US</span> <br /> <span>Our Every Details</span>
               </li>
@@ -52,7 +55,7 @@ const Banner = () => {
               <li className="pb-3">
                 <span>CONTACT US</span> <br /> <span>Get in touch with us</span>
               </li>
-            </ul>
+            </ul> */}
           </div>
         </div>
       </Container>
