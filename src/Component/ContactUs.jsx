@@ -1,10 +1,10 @@
 import React from "react";
-import { Container } from "react-bootstrap";
-import {
-  AiFillFacebook,
-  AiOutlineTwitter,
-  AiOutlineInstagram,
-} from "react-icons/ai";
+import { Col, Container, Row } from "react-bootstrap";
+// import {
+//   AiFillFacebook,
+//   AiOutlineTwitter,
+//   AiOutlineInstagram,
+// } from "react-icons/ai";
 const ContactUs = () => {
   const fakeData = [
     {
@@ -39,37 +39,49 @@ const ContactUs = () => {
   ];
   return (
     <div style={{ backgroundColor: "black", color: "white" }}>
-      <Container style={{ padding: "100px 40px" }}>
-        <p style={{ color: "#cc147f" }}>/CONTACT US</p>
-        <h1 style={{ fontSize: "48px", padding: "30px 40px 30px 0px" }}>
-          Let's build something great together - Get in touch!
-        </h1>
-        <div
-          style={{
-            width: "100px",
-            height: "2px",
-            display: "block",
-            backgroundColor: "#cc147f",
-            margin: "40px 0px",
-          }}
-        />
-        <a
-          href="mailto:hello@250studio.com"
-          className="fs-1 py-5 text-decoration-none text-light"
-        >
-          info@techlandsolution.com
-        </a>
-        <h3 className="py-4 text-secondary">+44 7453162634</h3>
-        <p style={{ color: "#cc147f" }}>/FOLLOW US</p>
-        <div style={{ marginTop: "20px" }}>
-          <AiFillFacebook className="me-4 fs-3 text-primary" />
-          <AiOutlineTwitter className="me-4 fs-3 text-primary" />
-          <AiOutlineInstagram className="me-4 fs-3 text-danger" />
+      <Container>
+        <div>
+          <Row>
+            <Col md={3}>
+              <img
+                height="100px"
+                // src="https://i.ibb.co/qy3YJwN/Untitled-design-9.png"
+                alt=""
+              />
+              <p className="mt-4">Content By Circle INC</p>
+              <p>
+                Address : House 235, Road 18, Dhanmondi City/Town Dhaka
+                State/Province/Region Dhaka Zip/Postal Code 1209
+              </p>
+              <p>Contact: +44 7453162635</p>
+            </Col>
+            <Col md={3}>
+              <h2>Useful Links</h2>
+              <p>About Us</p>
+              <p>Jobs @ Techland Solution</p>
+              <p>Insights</p>
+              <p>Media Coverage</p>
+            </Col>
+            <Col md={3}>
+              <h2>Our Services</h2>
+              <p>Strategize</p>
+              <p>Innovate</p>
+              <p>Integrate</p>
+              <p>Optimizeg</p>
+            </Col>
+            <Col md={3}>
+              <h2>Quick Links</h2>
+              <p>Techland Solution Events</p>
+              <p>Creative Showcase</p>
+              <p>CSR</p>
+            </Col>
+          </Row>
+          <div>
+            <p className="text-center mt-4">
+              © 2021 Copyright By Techland Solution
+            </p>
+          </div>
         </div>
-        <p className="py-5 text-secondary">
-          Copyright ©2019 All rights reserved | Techland Solutions | template
-          made by <span className="text-light">Circle Inc</span>
-        </p>
       </Container>
     </div>
   );
