@@ -6,34 +6,26 @@ const Banner = () => {
     <div style={{ height: "70vh" }}>
       <div
         style={{
-          position: "fixed",
+          position: "sticky",
           top: "66px",
           left: 0,
-          width: "100%",
+          width: "50%",
           height: "70vh",
           // zIndex: -1,
         }}
       >
-        <iframe
-          className="elementor-background-video-embed"
-          frameBorder="0"
-          allowFullScreen="1"
-          allow="autoplay"
-          title="Adsyndicate Video"
-          src="https://www.youtube-nocookie.com/embed/-mKFiOeFTcM?autoplay=1&loop=1&controls=0&rel=0&playsinline=1&enablejsapi=1&origin=https%3A%2F%2Fadsyndicate.in&widgetid=1"
-          id="widget2"
-          style={{
-            width: "100%",
-            height: "100%",
-            maxWidth: "100vw",
-            maxHeight: "100vh",
-          }}
-        ></iframe>
+        <video
+          src="https://istratsolutions.com/wp-content/uploads/2023/05/SAP-Industry-offering.mp4"
+          autoPlay
+          loop
+          muted
+          style={{ width: "100%", height: "70vh" }}
+        ></video>
       </div>
       <div
         style={{
-          position: "fixed",
-          top: "66px",
+          position: "sticky",
+          marginTop: "-70vh",
           left: "50%",
           width: "50%",
           height: "70vh",
