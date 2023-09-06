@@ -79,19 +79,15 @@ const Contents = () => {
         <Star />
         <Row>
           <Col md={4}>
-            <video
-              src="https://istratsolutions.com/wp-content/uploads/2022/07/E-Forms-Video.mp4"
-              controls
-              muted
-              height="200px"
-              width="100%"
+            <img
+              height="220px"
+              src="https://www.lyfemarketing.com/blog/wp-content/uploads/2018/04/website-solutions-used.jpg"
+              alt=""
             />
-            <video
-              src="https://istratsolutions.com/wp-content/uploads/2022/07/E-Forms-Video.mp4"
-              controls
-              muted
-              height="200px"
-              width="100%"
+            <img
+              height="220px"
+              src="https://inwayhosting.com/data/uploads/web-solution.png"
+              alt=""
             />
           </Col>
           <Col md={8}>

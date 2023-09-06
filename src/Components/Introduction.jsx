@@ -1,6 +1,7 @@
 import React from "react";
 import { Container } from "react-bootstrap";
 import Star from "./Star";
+import videoUrl from "./animation.mp4";
 
 const Introduction = () => {
   return (
@@ -20,7 +21,8 @@ const Introduction = () => {
         </div>
         <h1 className="ms-5">Introduction</h1>
         <video
-          src="https://istratsolutions.com/wp-content/uploads/2023/01/2023_into-slider.mp4"
+          autoPlay
+          src={videoUrl}
           controls
           muted
           height="600px"

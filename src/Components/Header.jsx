@@ -5,11 +5,11 @@ import Navbar from "react-bootstrap/Navbar";
 const Header = () => {
   return (
     <Navbar expand="lg" className="bg-body-tertiary">
-      <Container className=" d-flex align-items-center justify-content-between bg-black ">
+      <Container className=" d-flex align-items-center justify-content-between bg-white ">
         <div>
           <Navbar.Brand href="#">
             <img
-              height="60px"
+              height="100px"
               src="https://i.ibb.co/qy3YJwN/Untitled-design-9.png"
               alt=""
             />
