@@ -13,7 +13,7 @@ const Banner = () => {
     >
       <Container>
         <div className="d-flex align-items-center justify-content-between pt-4">
-          <h2>SOFTIC STUDIO</h2>
+          <h2>TECHLAND SOLUTION</h2>
           <h4>Menu</h4>
         </div>
         <div
@@ -22,8 +22,8 @@ const Banner = () => {
         >
           <div>
             <h1 className="banner-text fw-bold">
-              Complex Challenges <br />
-              Demand Bold Solutions
+              Fastest Way To <br />
+              Achieve Success.
             </h1>
             <div className="d-flex align-items-start gap-2">
               <div
@@ -36,21 +36,21 @@ const Banner = () => {
                 }}
               ></div>
               <div className="fs-2">
-                We create stunning Web, Mobile,Custom solutions that will make
-                your business stand out.
+                We’re committed to providing customers exceptional service
+                offering employees the best training.
               </div>
             </div>
           </div>
           <div>
             <ul>
               <li className="pb-3">
-                <span>ABOUT</span> <br /> <span>who we are</span>
+                <span>ABOUT US</span> <br /> <span>Our Every Details</span>
               </li>
               <li className="pb-3">
-                <span>SERVICE</span> <br /> <span>what we do</span>
+                <span>SERVICES</span> <br /> <span>what we provide to you</span>
               </li>
               <li className="pb-3">
-                <span>CONTACT</span> <br /> <span>get in touch</span>
+                <span>CONTACT US</span> <br /> <span>Get in touch with us</span>
               </li>
             </ul>
           </div>

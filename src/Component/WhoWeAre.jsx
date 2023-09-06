@@ -10,38 +10,38 @@ const WhoWeAre = () => {
       id: 1,
       name: "Define",
       description:
-        "From the moment you walk through our doors, we begin with a sit-down and define what exactly you want to be accomplished we deploy an array of tools to cut to the heart of your desired output, in minutes you have a clearer picture of where you are and where you want to go.",
-    },
-    {
-      id: 2,
-      name: "Design",
-      description:
-        "Once a clear picture of what you want is defined we move ahead with a minimum viable product designing the flow from idea to the users device.",
+        "As soon as you enter our premises, we initiate a discussion to precisely outline your goals. We utilize various tools to quickly grasp the core of your desired outcomes. Within minutes, you gain a better understanding of your current position and future objectives.",
     },
     {
       id: 3,
+      name: "Design",
+      description:
+        "After establishing a precise vision of your desires, we proceed by crafting a minimum viable product (MVP), meticulously designing the journey from conceptualization to the end-user's device.",
+    },
+    {
+      id: 2,
       name: "Build",
       description:
-        "Working actively with you we build an experience your users will love. Deploying our 10 years of design thinking to create a world-class product that is unique, efficient and stands out.",
+        "By actively collaborating with you, we cultivate an experience that will captivate and delight your users. Drawing upon our decade of expertise in design thinking, we endeavor to craft a distinctive, highly efficient, and standout world-class product.",
     },
     {
       id: 4,
       name: "Launch",
       description:
-        "Yes, we also love a good Lunch party!, we lunch off and monitor how your users use the app tweaking it along the way for optimum performance.",
+        "Certainly, we also appreciate a delightful lunch party! We kick off and closely monitor how your users interact with the app, making continuous adjustments along the journey to ensure optimal performance.",
     },
   ];
   return (
     <Container style={{ padding: "100px 40px" }}>
       <p style={{ color: "#cc147f" }}>/Who we are</p>
       <h1 style={{ fontSize: "48px", padding: "15px 0px" }}>
-        We are an agile development studio.We deliver technology solutions to
-        ambitious companies to address their challenges.
+        "An agile development studio, we are. We deliver technology solutions to
+        ambitious companies, addressing their challenges."
       </h1>
       <p style={{ fontSize: "24px", padding: "15px 0px", color: "#555555" }}>
-        Whether you are a small company or an established one we create clean
-        and intuitive applications for Web,Desktop,iOS & Android Platforms with
-        the same principles.
+        "We create clean and intuitive applications for Web, Desktop, iOS &
+        Android Platforms with the same principles, whether you are a small
+        company or an established one."
       </p>
       <Row>
         {fakeData.map((s) => (
