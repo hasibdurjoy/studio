@@ -12,7 +12,7 @@ const Footer = () => {
             <Col md={3}>
               <img
                 height="100px"
-                src="https://assets.hongkiat.com/uploads/psd-text-svg/logo-example.jpg"
+                src="https://i.ibb.co/9vzpFg0/Untitled-design-11.png"
                 alt=""
               />
               <p className="mt-4">Content</p>

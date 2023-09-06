@@ -10,71 +10,69 @@ const ABCD = () => {
       id: 1,
       name: "ADVERTISING",
       image:
-        "https://mlxc1vwi9aaj.i.optimole.com/cb:_9cy.1d4aa/w:300/h:300/q:mauto/f:avif/https://adsyndicate.in/wp-content/uploads/2023/03/Consultancy.png",
+        "https://mlxc1vwi9aaj.i.optimole.com/cb:_9cy.1d4aa/w:300/h:300/q:mauto/f:avif/https://adsyndicate.in/wp-content/uploads/2023/03/Advertsing.png",
     },
     {
-      id: 1,
-      name: "ADVERTISING",
+      id: 2,
+      name: "DIGITAL",
+      image:
+        "https://mlxc1vwi9aaj.i.optimole.com/cb:_9cy.1d4aa/w:300/h:300/q:mauto/f:avif/https://adsyndicate.in/wp-content/uploads/2023/03/Digital.png",
+    },
+    {
+      id: 3,
+      name: "CONSULTANCY",
       image:
         "https://mlxc1vwi9aaj.i.optimole.com/cb:_9cy.1d4aa/w:300/h:300/q:mauto/f:avif/https://adsyndicate.in/wp-content/uploads/2023/03/Consultancy.png",
     },
     {
-      id: 1,
-      name: "ADVERTISING",
+      id: 4,
+      name: "HEALTHCARE",
       image:
-        "https://mlxc1vwi9aaj.i.optimole.com/cb:_9cy.1d4aa/w:300/h:300/q:mauto/f:avif/https://adsyndicate.in/wp-content/uploads/2023/03/Consultancy.png",
+        "https://mlxc1vwi9aaj.i.optimole.com/cb:_9cy.1d4aa/w:300/h:300/q:mauto/f:avif/https://adsyndicate.in/wp-content/uploads/2023/03/Healthcare.png",
     },
     {
-      id: 1,
-      name: "ADVERTISING",
+      id: 5,
+      name: "EXPERIENTIAL",
       image:
-        "https://mlxc1vwi9aaj.i.optimole.com/cb:_9cy.1d4aa/w:300/h:300/q:mauto/f:avif/https://adsyndicate.in/wp-content/uploads/2023/03/Consultancy.png",
+        "https://mlxc1vwi9aaj.i.optimole.com/cb:_9cy.1d4aa/w:300/h:300/q:mauto/f:avif/https://adsyndicate.in/wp-content/uploads/2023/03/Experntial.png",
     },
-    {
-      id: 1,
-      name: "ADVERTISING",
-      image:
-        "https://mlxc1vwi9aaj.i.optimole.com/cb:_9cy.1d4aa/w:300/h:300/q:mauto/f:avif/https://adsyndicate.in/wp-content/uploads/2023/03/Consultancy.png",
-    },
-    {
-      id: 1,
-      name: "ADVERTISING",
-      image:
-        "https://mlxc1vwi9aaj.i.optimole.com/cb:_9cy.1d4aa/w:300/h:300/q:mauto/f:avif/https://adsyndicate.in/wp-content/uploads/2023/03/Consultancy.png",
-    },
-    {
-      id: 1,
-      name: "ADVERTISING",
-      image:
-        "https://mlxc1vwi9aaj.i.optimole.com/cb:_9cy.1d4aa/w:300/h:300/q:mauto/f:avif/https://adsyndicate.in/wp-content/uploads/2023/03/Consultancy.png",
-    },
-    {
-      id: 1,
-      name: "ADVERTISING",
-      image:
-        "https://mlxc1vwi9aaj.i.optimole.com/cb:_9cy.1d4aa/w:300/h:300/q:mauto/f:avif/https://adsyndicate.in/wp-content/uploads/2023/03/Consultancy.png",
-    },
-    {
-      id: 1,
-      name: "ADVERTISING",
-      image:
-        "https://mlxc1vwi9aaj.i.optimole.com/cb:_9cy.1d4aa/w:300/h:300/q:mauto/f:avif/https://adsyndicate.in/wp-content/uploads/2023/03/Consultancy.png",
-    },
-    {
-      id: 1,
-      name: "ADVERTISING",
-      image:
-        "https://mlxc1vwi9aaj.i.optimole.com/cb:_9cy.1d4aa/w:300/h:300/q:mauto/f:avif/https://adsyndicate.in/wp-content/uploads/2023/03/Consultancy.png",
-    },
+    // {
+    //   id: 1,
+    //   name: "ADVERTISING",
+    //   image:
+    //     "https://mlxc1vwi9aaj.i.optimole.com/cb:_9cy.1d4aa/w:300/h:300/q:mauto/f:avif/https://adsyndicate.in/wp-content/uploads/2023/03/Consultancy.png",
+    // },
+    // {
+    //   id: 1,
+    //   name: "ADVERTISING",
+    //   image:
+    //     "https://mlxc1vwi9aaj.i.optimole.com/cb:_9cy.1d4aa/w:300/h:300/q:mauto/f:avif/https://adsyndicate.in/wp-content/uploads/2023/03/Consultancy.png",
+    // },
+    // {
+    //   id: 1,
+    //   name: "ADVERTISING",
+    //   image:
+    //     "https://mlxc1vwi9aaj.i.optimole.com/cb:_9cy.1d4aa/w:300/h:300/q:mauto/f:avif/https://adsyndicate.in/wp-content/uploads/2023/03/Consultancy.png",
+    // },
+    // {
+    //   id: 1,
+    //   name: "ADVERTISING",
+    //   image:
+    //     "https://mlxc1vwi9aaj.i.optimole.com/cb:_9cy.1d4aa/w:300/h:300/q:mauto/f:avif/https://adsyndicate.in/wp-content/uploads/2023/03/Consultancy.png",
+    // },
+    // {
+    //   id: 1,
+    //   name: "ADVERTISING",
+    //   image:
+    //     "https://mlxc1vwi9aaj.i.optimole.com/cb:_9cy.1d4aa/w:300/h:300/q:mauto/f:avif/https://adsyndicate.in/wp-content/uploads/2023/03/Consultancy.png",
+    // },
   ];
 
   const images = [
     "https://images.unsplash.com/photo-1575936123452-b67c3203c357?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aW1hZ2V8ZW58MHx8MHx8fDA%3D&w=1000&q=80",
-    "https://images.unsplash.com/photo-1575936123452-b67c3203c357?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aW1hZ2V8ZW58MHx8MHx8fDA%3D&w=1000&q=80",
-    "https://images.unsplash.com/photo-1575936123452-b67c3203c357?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aW1hZ2V8ZW58MHx8MHx8fDA%3D&w=1000&q=80",
-    "https://images.unsplash.com/photo-1575936123452-b67c3203c357?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aW1hZ2V8ZW58MHx8MHx8fDA%3D&w=1000&q=80",
-    "https://images.unsplash.com/photo-1575936123452-b67c3203c357?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aW1hZ2V8ZW58MHx8MHx8fDA%3D&w=1000&q=80",
-    "https://images.unsplash.com/photo-1575936123452-b67c3203c357?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aW1hZ2V8ZW58MHx8MHx8fDA%3D&w=1000&q=80",
+    "https://mlxc1vwi9aaj.i.optimole.com/cb:_9cy.1d4aa/w:auto/h:auto/q:mauto/f:avif/https://adsyndicate.in/wp-content/uploads/2023/03/ubi-mockup2.jpg",
+    "https://mlxc1vwi9aaj.i.optimole.com/cb:_9cy.1d4aa/w:auto/h:auto/q:mauto/f:avif/https://adsyndicate.in/wp-content/uploads/2023/04/IMG-20230410-WA0006.jpg",
+    "https://mlxc1vwi9aaj.i.optimole.com/cb:_9cy.1d4aa/w:auto/h:auto/q:mauto/f:avif/https://adsyndicate.in/wp-content/uploads/2023/04/UBI-cover-1.jpg",
   ];
   return (
     <div className="mt-5 py-5" style={{ backgroundColor: "#F8F7F8" }}>
