@@ -39,7 +39,12 @@ const ContactUs = () => {
   ];
   return (
     <div
-      style={{ backgroundColor: "black", color: "white", marginTop: "10px" }}
+      style={{
+        backgroundColor: "black",
+        color: "white",
+        marginTop: "10px",
+        paddingTop: "40px",
+      }}
     >
       <Container>
         <div>
