@@ -36,7 +36,6 @@ const ContactUsForm = () => {
             value={formData.name}
             onChange={handleChange}
             placeholder="Your Name"
-            required
           />
         </Form.Group>
 
@@ -48,7 +47,6 @@ const ContactUsForm = () => {
             value={formData.email}
             onChange={handleChange}
             placeholder="Your Email"
-            required
           />
         </Form.Group>
 
@@ -61,13 +59,14 @@ const ContactUsForm = () => {
             value={formData.message}
             onChange={handleChange}
             placeholder="Your Message"
-            required
           />
         </Form.Group>
 
-        <Button variant="primary" type="submit">
-          Submit
-        </Button>
+        <a href="mailto:haraishudhuharai@outlook.com">
+          <Button variant="primary" type="submit" className="mt-2">
+            Submit
+          </Button>
+        </a>
       </Form>
     </div>
   );
