@@ -59,23 +59,23 @@ const ContactUs = () => {
             <Col md={3}>
               <h2>Useful Links</h2>
               <p>About Us</p>
-              <p>Jobs @ Techland Solution</p>
-              <p>Insights</p>
-              <p>Media Coverage</p>
+              <p>info@techlandsolution.org</p>
+              {/* <p>Insights</p> */}
+              {/* <p>Media Coverage</p> */}
             </Col>
             <Col md={3}>
               <h2>Our Services</h2>
-              <p>Strategize</p>
-              <p>Innovate</p>
-              <p>Integrate</p>
-              <p>Optimizeg</p>
+              <p>Brand Manufacture</p>
+              <p>Company Analytics</p>
+              <p>Website Design</p>
+              <p>Marketing Strategy</p>
             </Col>
-            <Col md={3}>
+            {/* <Col md={3}>
               <h2>Quick Links</h2>
               <p>Techland Solution Events</p>
               <p>Creative Showcase</p>
               <p>CSR</p>
-            </Col>
+            </Col> */}
           </Row>
           <div>
             <p className="text-center mt-4">

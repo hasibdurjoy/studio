@@ -67,7 +67,7 @@ const WhoWeAre = () => {
                       width: "2px",
                       height: "100%",
                       display: "block",
-                      backgroundColor: "#cc147f",
+                      backgroundColor: "#22abe3",
                       marginLeft: "20px",
                     }}
                   />
