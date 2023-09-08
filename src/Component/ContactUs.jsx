@@ -38,20 +38,18 @@ const ContactUs = () => {
     },
   ];
   return (
-    <div style={{ backgroundColor: "black", color: "white" }}>
+    <div
+      style={{ backgroundColor: "black", color: "white", marginTop: "10px" }}
+    >
       <Container>
         <div>
           <Row>
             <Col md={3}>
-              <img
-                height="100px"
-                // src="https://i.ibb.co/qy3YJwN/Untitled-design-9.png"
-                alt=""
-              />
+              <img height="50px" src="https://i.ibb.co/PMLmc6C/TS.png" alt="" />
               <p className="mt-4">Content By Circle INC</p>
               <p>
-                Address : House 235, Road 18, Dhanmondi City/Town Dhaka
-                State/Province/Region Dhaka Zip/Postal Code 1209
+                House 164, Road 08, Uttara, Dhaka-1230 41 Constance Street,
+                London, England-E16 2DQ
               </p>
               <p>Contact: +44 7453162635</p>
             </Col>

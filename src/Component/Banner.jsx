@@ -13,7 +13,13 @@ const Banner = () => {
     >
       <Container>
         <div className="d-flex align-items-center justify-content-between pt-4">
-          <h2>TECHLAND SOLUTION</h2>
+          <img
+            style={{ height: "30px" }}
+            src="https://i.ibb.co/PMLmc6C/TS.png"
+            alt=""
+          />
+          {/* <a href="https://ibb.co/cwBg6rT"><img src="https://i.ibb.co/PMLmc6C/TS.png" alt="TS" border="0"></a> */}
+          {/* <h2>TECHLAND SOLUTION</h2> */}
           <h4>Home </h4>
           <h4>About US</h4>
           <h4>Service</h4>
