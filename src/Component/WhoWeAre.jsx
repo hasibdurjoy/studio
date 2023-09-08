@@ -33,7 +33,7 @@ const WhoWeAre = () => {
   ];
   return (
     <Container style={{ padding: "100px 40px" }}>
-      <p style={{ color: "#cc147f" }}>/Who we are</p>
+      <p style={{ color: "#22abe3" }}>/Who we are</p>
       <h1 style={{ fontSize: "48px", padding: "15px 0px" }}>
         "An agile development studio, we are. We deliver technology solutions to
         ambitious companies, addressing their challenges."

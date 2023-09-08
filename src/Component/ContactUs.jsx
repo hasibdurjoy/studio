@@ -52,10 +52,8 @@ const ContactUs = () => {
             <Col md={3}>
               <img height="50px" src="https://i.ibb.co/PMLmc6C/TS.png" alt="" />
               <p className="mt-4">Content By Circle INC</p>
-              <p>
-                House 164, Road 08, Uttara, Dhaka-1230 41 Constance Street,
-                London, England-E16 2DQ
-              </p>
+              <p>Address-1: House 164, Road 08, Uttara, Dhaka-1230</p>
+              <p>Address-2: 41 Constance Street, London, England-E16 2DQ</p>
               <p>Contact: +44 7453162635</p>
             </Col>
             <Col md={3}>

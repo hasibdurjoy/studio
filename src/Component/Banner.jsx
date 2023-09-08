@@ -40,7 +40,7 @@ const Banner = () => {
                   width: "100px",
                   height: "2px",
                   display: "block",
-                  backgroundColor: "#cc147f",
+                  backgroundColor: "#22abe3",
                   marginTop: "30px",
                 }}
               ></div>
