@@ -54,7 +54,8 @@ const ContactUs = () => {
               <p className="mt-4">Content By Circle INC</p>
               <p>Address-1: House 164, Road 08, Uttara, Dhaka-1230</p>
               <p>Address-2: 41 Constance Street, London, England-E16 2DQ</p>
-              <p>Contact: +44 7453162635</p>
+              <p>Contact: +44 7480 673135</p>
+              <p>+880 1746-059403</p>
             </Col>
             <Col md={3}>
               <h2>Useful Links</h2>
