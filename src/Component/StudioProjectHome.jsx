@@ -10,7 +10,7 @@ const StudioProjectHome = () => {
   return (
     <div>
       <Banner />
-      {/* <AboutUs /> */}
+      <AboutUs />?
       <WhoWeAre />
       <WhatWeDo />
       <ContactUsForm />

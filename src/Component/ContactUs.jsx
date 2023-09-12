@@ -39,6 +39,7 @@ const ContactUs = () => {
   ];
   return (
     <div
+      id="contact-us"
       style={{
         backgroundColor: "black",
         color: "white",

@@ -18,12 +18,20 @@ const Banner = () => {
             src="https://i.ibb.co/PMLmc6C/TS.png"
             alt=""
           />
-          {/* <a href="https://ibb.co/cwBg6rT"><img src="https://i.ibb.co/PMLmc6C/TS.png" alt="TS" border="0"></a> */}
-          {/* <h2>TECHLAND SOLUTION</h2> */}
-          <h4>Home </h4>
-          <h4>About US</h4>
-          <h4>Service</h4>
-          <h4>Contact Us</h4>
+          <div className="d-flex align-items-center gap-4">
+            <a
+              style={{ textDecoration: "none", color: "black" }}
+              href="#about-us"
+            >
+              <h4>About US</h4>
+            </a>
+            <a
+              style={{ textDecoration: "none", color: "black" }}
+              href="#contact-us"
+            >
+              <h4>Contact Us</h4>{" "}
+            </a>
+          </div>
         </div>
         <div
           className="d-flex align-items-center justify-content-between mx-5 gap-4"
