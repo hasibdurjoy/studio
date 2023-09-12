@@ -20,16 +20,20 @@ const Banner = () => {
           />
           <div className="d-flex align-items-center gap-4">
             <a
-              style={{ textDecoration: "none", color: "black" }}
+              target="_blank"
+              style={{
+                textDecoration: "none",
+                color: "black",
+              }}
               href="#about-us"
             >
-              <h4>About US</h4>
+              <h6>About US</h6>
             </a>
             <a
               style={{ textDecoration: "none", color: "black" }}
               href="#contact-us"
             >
-              <h4>Contact Us</h4>{" "}
+              <h6>Contact Us</h6>{" "}
             </a>
           </div>
         </div>
