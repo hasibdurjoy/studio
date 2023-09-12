@@ -25,7 +25,7 @@ const Banner = () => {
                 textDecoration: "none",
                 color: "black",
               }}
-              href="#about-us"
+              href="/about-us"
             >
               <h6>About US</h6>
             </a>
