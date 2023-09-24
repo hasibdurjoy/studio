@@ -70,7 +70,7 @@ const ContactUs = () => {
               >
                 <FaFacebookSquare className="fs-5"></FaFacebookSquare>
               </a>
-              <a
+              {/* <a
                 target="_blank "
                 href="https://instagram.com/techland791?igshid=OGQ5ZDc2ODk2ZA=="
               >
@@ -78,7 +78,7 @@ const ContactUs = () => {
                   href=""
                   className="mx-5 fs-5"
                 ></AiFillInstagram>
-              </a>
+              </a> */}
               {/* <p>Insights</p> */}
               {/* <p>Media Coverage</p> */}
             </Col>
