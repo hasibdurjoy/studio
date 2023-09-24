@@ -1,5 +1,7 @@
 import React from "react";
 import { Col, Container, Row } from "react-bootstrap";
+import { FaFacebookSquare } from "react-icons/fa";
+import { AiFillInstagram } from "react-icons/ai";
 // import {
 //   AiFillFacebook,
 //   AiOutlineTwitter,
@@ -62,6 +64,8 @@ const ContactUs = () => {
               <h2>Useful Links</h2>
               <p>About Us</p>
               <p>info@techlandsolution.org</p>
+              <FaFacebookSquare href="" className=""></FaFacebookSquare>
+              <AiFillInstagram href="" className="mx-5 "></AiFillInstagram>
               {/* <p>Insights</p> */}
               {/* <p>Media Coverage</p> */}
             </Col>
