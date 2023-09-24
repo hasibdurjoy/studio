@@ -64,8 +64,21 @@ const ContactUs = () => {
               <h2>Useful Links</h2>
               <p>About Us</p>
               <p>info@techlandsolution.org</p>
-              <FaFacebookSquare href="" className=""></FaFacebookSquare>
-              <AiFillInstagram href="" className="mx-5 "></AiFillInstagram>
+              <a
+                target="_blank "
+                href="https://www.facebook.com/profile.php?id=61551512445796&mibextid=LQQJ4d"
+              >
+                <FaFacebookSquare className="fs-5"></FaFacebookSquare>
+              </a>
+              <a
+                target="_blank "
+                href="https://instagram.com/techland791?igshid=OGQ5ZDc2ODk2ZA=="
+              >
+                <AiFillInstagram
+                  href=""
+                  className="mx-5 fs-5"
+                ></AiFillInstagram>
+              </a>
               {/* <p>Insights</p> */}
               {/* <p>Media Coverage</p> */}
             </Col>
